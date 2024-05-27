@@ -2,8 +2,8 @@
 
 ## Completed By
 
-{{YOUR NAME}}
+{{KulyK Oleksandr}}
 
 ## Video Demo
 
-![](LINK_TO_VIDEO)
+https://drive.google.com/file/d/1CxZEYcFHXtRDxB9AaxU4q9aHUXtw3dWr/view?usp=drive_link
